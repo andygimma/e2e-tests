@@ -1,0 +1,7 @@
+{
+  "name": "e2e-tests",
+  "version": "1.0.0",
+  "description": "Marhub bot end-to-end tests",
+  "main": "index.js",
+  "license": "MIT"
+}
